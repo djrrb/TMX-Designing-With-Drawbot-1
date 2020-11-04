@@ -13,6 +13,7 @@ No programming experience is necessary for this introduction to the Python progr
 No se necesita experiencia en programación para esta introducción al lenguaje de programación Python y DrawBot, una aplicación de MacOS que crea gráficos vectoriales 2D y tipografía a partir del código escrito por usted. Dejando a un lado las herramientas de diseño tradicionales como InDesign e Illustrator, crearemos nuestras propias herramientas para automatizar tareas repetitivas y generar cientos de variaciones sobre un tema ... cosas que nunca querríamos hacer a mano. Al elaborar un sistema de diseño en código, obtendremos experiencia práctica en programación, así como la oportunidad de reconsiderar el papel que juegan las herramientas en nuestro trabajo.
 
 
+
 ## Resources
 
 ### Drawbot resources
@@ -31,3 +32,8 @@ No se necesita experiencia en programación para esta introducción al lenguaj
 * [Daily Drawbot](https://dailydrawbot.tumblr.com), fun animations by [Just van Rossum](https://twitter.com/justvanrossum)
 * [BadgeBot](https://github.com/djrrb/badgebot), my conference badges for the first [Typographics](https://2015.typographics.com) conference
 * [Lowlands](http://hansje.net/Lowlands-2017) by [Hansje van Halem](http://hansje.net) and [Just van Rossum](https://twitter.com/justvanrossum)
+
+
+## InDesign menu parallels
+
+![InDesign Menu Parallels](indesign-menu-drawbot-functions.png)
