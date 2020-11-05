@@ -1,5 +1,5 @@
 import os
-import datetime
+import time
 
 #message = 'hello world'
 #print(message)
@@ -44,5 +44,5 @@ for page in range(1):
 for ext in ['gif', 'pdf', 'mp4']: 
     myPath = '~/desktop/myFunGrid.'
     if os.path.exists(os.path.expanduser(myPath+ext)):
-        myPath = myPath + str(datetime.datetime.now()) + '.'
+        myPath = myPath + str(int(time.time())) + '.'
     saveImage(myPath+ext)
